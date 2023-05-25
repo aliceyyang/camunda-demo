@@ -5,7 +5,15 @@
 - You can access Camunda Webapps in browser: `http://localhost:8080` (provide login/password from `application.properties`, default: admin / admin)
 
 
-
+### Process Explanation
+| Process Description                        | BPMN Symbols            |
+|--------------------------------------------|-------------------------|
+| 1.  使用者手動輸入欲查詢之專案 id          | User Task               |
+| 2.  系統驗證專案是否存在                   | System Task / Gateway   |
+| 3.  若存在，繼續執行下一步的資料撈取       | System Task             |
+| 4.  取得專案資料後進行系統審核             | System Task             |
+| 5.  系統審核通過會直接產生報表結果         | System Task             |
+| 6.  如審核未通過，則會送交科長人工進行審核 | System Task             |
 
 
 ### Camunda v.s. Flowable
@@ -18,20 +26,6 @@
 | Pricing           | More expensive                                                                           | Less expensive                                                                                 |
 | Target audience   | Large organizations that need a powerful and scalable platform                           | Small and medium-sized organizations that need a cost-effective platform                       |
 | Modeler           | Camunda Modeler / Web                                                                    | Plug-in in IDE / Web                                                                           |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Camunda 7 v.s Camunda 8
 
