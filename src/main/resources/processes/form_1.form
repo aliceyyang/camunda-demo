@@ -1,0 +1,49 @@
+{
+  "components": [
+    {
+      "label": "項目",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_16x3rfg",
+        "columns": null
+      },
+      "id": "Field_1nzmsuc",
+      "key": "item"
+    },
+    {
+      "label": "金額",
+      "type": "number",
+      "layout": {
+        "row": "Row_16x3rfg",
+        "columns": null
+      },
+      "id": "Field_1adbvxs",
+      "key": "amount",
+      "defaultValue": 0,
+      "properties": {}
+    },
+    {
+      "label": "是否通過",
+      "type": "checkbox",
+      "layout": {
+        "row": "Row_0udb7ym",
+        "columns": null
+      },
+      "id": "Field_0vy4bn4",
+      "key": "approved",
+      "conditional": {
+        "hide": "=approved"
+      },
+      "disabled": false
+    }
+  ],
+  "type": "default",
+  "id": "Form_payment",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.10.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.19.0",
+  "schemaVersion": 8
+}
