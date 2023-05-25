@@ -45,10 +45,23 @@
 
 
 ### References
-- [Camunda Platform 7 documentation](https://docs.camunda.org/manual/7.19/)
-- [Camunda Platform 8 documentation](https://docs.camunda.io/)
-- [2022 Open Source BPM Comparison](https://medium.com/capital-one-tech/2022-open-source-bpm-comparison-33b7b53e9c98)
 
+-   [Business Process Model and Notation](https://zh.wikipedia.org/zh-tw/%E4%B8%9A%E5%8A%A1%E6%B5%81%E7%A8%8B%E6%A8%A1%E5%9E%8B%E5%92%8C%E6%A0%87%E8%AE%B0%E6%B3%95)
+    
+-   [2022 Open Source BPM Comparison](https://medium.com/capital-one-tech/2022-open-source-bpm-comparison-33b7b53e9c98)
+    
+-   [Camunda Platform 7 documentation](https://docs.camunda.org/manual/7.19/)
+    
+-   [Camunda Platform REST API (7.19.1-ee)](https://docs.camunda.org/rest/camunda-bpm-platform/7.19/)
+    
+-   [GitHub] [camunda-bpm-spring-boot-starter](https://github.com/camunda/camunda-bpm-platform/tree/master/spring-boot-starter)
+    
+-   [GitHub] [Camunda Platform 7 - The open source BPMN platform](https://github.com/camunda/camunda-bpm-platform)
+    
+-   [GitHub] [External Task Client Spring Boot Starter: REST API & Webapp Example](https://github.com/camunda/camunda-bpm-examples/tree/7.19/spring-boot-starter/external-task-client/loan-granting-spring-boot-webapp)
 
 ### More information
-- [Activiti vs. Camunda Platform vs. Flowable Comparison Chart](https://sourceforge.net/software/compare/Activiti-vs-Camunda-vs-Flowable/)
+
+-   [Activiti vs. Camunda Platform vs. Flowable Comparison Chart](https://sourceforge.net/software/compare/Activiti-vs-Camunda-vs-Flowable/)
+    
+-   [Don’t Underestimate the Power of Visual Content in your Digital Marketing Strategy](https://mastertcloc.unistra.fr/2019/07/22/digital-marketing-strategy/)
