@@ -1,0 +1,28 @@
+{
+  "components": [
+    {
+      "label": "專案 id",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_05emp6x",
+        "columns": null
+      },
+      "id": "Field_0e6xjhh",
+      "key": "projectID",
+      "description": "輸入欲申請之專案 id，ex : project_XXX",
+      "validate": {
+        "required": true,
+        "pattern": "^project_[a-zA-Z0-9]+$"
+      }
+    }
+  ],
+  "type": "default",
+  "id": "Form_079vpws",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.10.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.19.0",
+  "schemaVersion": 8
+}

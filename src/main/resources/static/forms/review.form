@@ -1,0 +1,51 @@
+{
+  "components": [
+    {
+      "label": "專案 id",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_05emp6x",
+        "columns": null
+      },
+      "id": "Field_0e6xjhh",
+      "key": "projectID",
+      "description": "輸入欲申請之專案 id，ex : project_XXX",
+      "validate": {
+        "required": true,
+        "pattern": "^project_[a-zA-Z0-9]+$"
+      }
+    },
+    {
+      "label": "審核通過與否？",
+      "type": "checkbox",
+      "layout": {
+        "row": "Row_1itc85t",
+        "columns": null
+      },
+      "id": "Field_193sh13",
+      "key": "review"
+    },
+    {
+      "label": "補充說明",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_08fio9f",
+        "columns": null
+      },
+      "id": "Field_0najayh",
+      "key": "supplementary",
+      "validate": {
+        "required": true
+      }
+    }
+  ],
+  "type": "default",
+  "id": "Form_079vpwl",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.10.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.19.0",
+  "schemaVersion": 8
+}
