@@ -53,6 +53,9 @@
 -   [GitHub] [Camunda Platform 7 - The open source BPMN platform](https://github.com/camunda/camunda-bpm-platform)
     
 -   [GitHub] [External Task Client Spring Boot Starter: REST API & Webapp Example](https://github.com/camunda/camunda-bpm-examples/tree/7.19/spring-boot-starter/external-task-client/loan-granting-spring-boot-webapp)
+-  Camunda co-funder and CTO Bernd Ruecker’s [medium](https://medium.com/@berndruecker), [github](https://github.com/berndruecker) and [youtube](https://www.youtube.com/@berndruecker6433/videos)
+- [Practical Process Automation](https://processautomationbook.com/) from Bernd
+- ![Practical Process Automation](https://processautomationbook.com/images/cover-big.jpg)
 
 ### More information
 
